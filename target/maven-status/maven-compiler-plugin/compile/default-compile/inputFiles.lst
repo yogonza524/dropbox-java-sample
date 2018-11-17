@@ -1,0 +1,7 @@
+/home/gonzalo/Github/dropbox-java-sample/src/main/java/com/dropbox/downloaddropbox/service/interfaces/DropboxService.java
+/home/gonzalo/Github/dropbox-java-sample/src/main/java/com/dropbox/downloaddropbox/DownloadDropboxApplication.java
+/home/gonzalo/Github/dropbox-java-sample/src/main/java/com/dropbox/downloaddropbox/actuator/GlosarioEndpoint.java
+/home/gonzalo/Github/dropbox-java-sample/src/main/java/com/dropbox/downloaddropbox/service/implementations/DropboxDefaultService.java
+/home/gonzalo/Github/dropbox-java-sample/src/main/java/com/dropbox/downloaddropbox/security/SecurityConfig.java
+/home/gonzalo/Github/dropbox-java-sample/src/main/java/com/dropbox/downloaddropbox/controller/MvcController.java
+/home/gonzalo/Github/dropbox-java-sample/src/main/java/com/dropbox/downloaddropbox/model/Glosario.java

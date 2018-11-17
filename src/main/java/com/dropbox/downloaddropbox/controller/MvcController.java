@@ -48,4 +48,15 @@ public class MvcController {
             log.error("No se encontró la imagen");
         }
     }
+
+    @RequestMapping(value = "/login.html", method = RequestMethod.GET)
+    public String login() {
+        return "login";
+    }
+
+    @RequestMapping(value = "/perform_login", method = RequestMethod.POST)
+    public String performLogin() {
+        log.warn("perform login triggered");
+        return "login";
+    }
 }

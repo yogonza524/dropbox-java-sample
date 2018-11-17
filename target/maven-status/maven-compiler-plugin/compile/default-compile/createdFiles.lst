@@ -1,0 +1,8 @@
+com/dropbox/downloaddropbox/service/interfaces/DropboxService.class
+com/dropbox/downloaddropbox/model/Glosario$GlosarioBuilder.class
+com/dropbox/downloaddropbox/actuator/GlosarioEndpoint.class
+com/dropbox/downloaddropbox/service/implementations/DropboxDefaultService.class
+com/dropbox/downloaddropbox/model/Glosario.class
+com/dropbox/downloaddropbox/DownloadDropboxApplication.class
+com/dropbox/downloaddropbox/security/SecurityConfig.class
+com/dropbox/downloaddropbox/controller/MvcController.class
